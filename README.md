@@ -103,3 +103,6 @@ def scatter(entered_site,payload):
 # Run the app
 if __name__ == '__main__':
     app.run_server()
+
+SpaceX Launch Records Dashboard
+https://ibm-applied-data-science-capst.herokuapp.com/
